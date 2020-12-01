@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App Remover Demo</string>
+    <string name="remove">REMOVE</string>
+    <string name="no_china_app_found">Congratulation! You are free from chinese apps</string>
+    <string name="china_app_found">%1s china app found in your system.</string>
+</resources>
